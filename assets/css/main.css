@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Rubik");
+.cover {
+  background: url("/assets/images/banner.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh; }
+
+.banner__caption .txt_green {
+  color: #00ff90;
+  font-weight: bold; }
+
+.navbar_bline {
+  border-top: 1px solid white;
+  width: 90%;
+  float: right; }
+
+body {
+  font-family: 'Rubik'; }
+
+/*# sourceMappingURL=main.css.map */
