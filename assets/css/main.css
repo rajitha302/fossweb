@@ -4,9 +4,7 @@
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
-  background-position: center;
-  min-height: 100vh; }
+  background-size: cover; }
 
 .banner__caption .txt_green {
   color: #00ff90;
