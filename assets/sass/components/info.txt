@@ -1,1 +1,1 @@
-//is for components such as buttons, navbars, cards, anything that is reusable. 
+//is for components such as buttons, navbars, cards, anything that is reusable.

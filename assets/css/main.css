@@ -17,6 +17,21 @@
   width: 90%;
   float: right; }
 
+.card_style {
+  background-color: rgba(255, 255, 255, 0.18);
+  border-radius: 2.5rem; }
+
+.card_style form {
+  color: #ffffff; }
+  .card_style form input, .card_style form select {
+    background-color: transparent; }
+  .card_style form .btn-1 {
+    background-color: #ffffff;
+    color: #0c924e;
+    border-radius: 2rem;
+    text-transform: uppercase;
+    float: right; }
+
 body {
   font-family: 'Rubik'; }
 
