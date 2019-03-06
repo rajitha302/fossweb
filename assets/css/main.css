@@ -11,9 +11,19 @@
   font-weight: bold; }
 
 .navbar_bline {
+  position: relative;
   border-top: 1px solid white;
-  width: 90%;
-  float: right; }
+  width: calc(100% - 147px);
+  float: right;
+  top: -43px; }
+
+.event_section {
+  margin-top: -50px;
+  line-height: 18px; }
+  .event_section span {
+    font-size: 14px; }
+  .event_section .event_name {
+    color: #00ff90; }
 
 .card_style {
   background-color: rgba(255, 255, 255, 0.18);
@@ -31,6 +41,6 @@
     float: right; }
 
 body {
-  font-family: 'Rubik'; }
+  font-family: 'Open Sans'; }
 
 /*# sourceMappingURL=main.css.map */

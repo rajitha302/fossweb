@@ -1,5 +1,19 @@
 .navbar_bline {
-    border-top: 1px solid rgb(255, 255, 255);
-    width: 90%;
+    position: relative;
+    border-top: 1px solid white;
+    width: calc(100% - 147px);
     float: right;
+    top: -43px;
+}
+
+.event_section {
+    margin-top: -50px;
+    line-height: 18px;
+
+    span{
+        font-size: 14px;
+    }
+    .event_name{
+        color: #00ff90;
+    }
 }
